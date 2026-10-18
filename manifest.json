@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "ULTIMATE MINER",
+    "description": "Tree Chopper, Connected Ore Miner and 3x3 Dirt Shovel",
+    "uuid": "a7c8e1f2-6d34-4b91-8a25-3f0c7d9e5126",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 14, 60]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b8d9f2a3-7e45-4ca2-9b36-4a1d8e0f6237",
+      "version": [1, 0, 0]
+    }
+  ]
+}
